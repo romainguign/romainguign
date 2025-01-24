@@ -1,4 +1,3 @@
----
 🎓 Studying Computer Science at [42 School](https://42.fr/en/homepage/) 
 
 ---
