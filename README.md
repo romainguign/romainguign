@@ -1,4 +1,4 @@
-🎓 Currently studying for a Master's degree in Biology, Ecology and Evolution, specializing in the sea, anthropization and diagnostics.
+🎓 Currently studying for a Master's degree in Biology, Ecology and Evolution, specializing in the sea, anthropization and diagnostics.\n
 👨🏻‍💻 Former student in Computer Science at [42 School](https://42.fr/en/homepage/) 
 
 ---
