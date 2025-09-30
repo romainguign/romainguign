@@ -1,4 +1,5 @@
-🎓 Studying Computer Science at [42 School](https://42.fr/en/homepage/) 
+🎓 Currently studying for a Master's degree in Biology, Ecology and Evolution, specializing in the sea, anthropization and diagnostics.
+👨🏻‍💻 Former student in Computer Science at [42 School](https://42.fr/en/homepage/) 
 
 ---
 
